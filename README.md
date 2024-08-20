@@ -5,7 +5,7 @@
 This project aims to develop a machine learning pipeline for extracting nutritional information from product images. The pipeline combines image and text processing techniques to classify and tag nutritional facts such as calories, fat content, sugars, and more. The solution is designed to be modular, scalable, and ready for deployment in a production environment.
 
 ## Project Structure
-
+```
 project/
 │
 ├── data/
@@ -30,6 +30,7 @@ project/
 ├── requirements.txt # Python dependencies
 │
 └── setup.py # Setup script for the package
+```
 
 
 ## Setup Instructions
